@@ -1,5 +1,7 @@
 # Per-User Help Topics (osTicket plugin)
 
+![https://i.ibb.co/5gPz4Y7t/image.png](https://i.ibb.co/5gPz4Y7t/image.png)
+
 Restrict which **Help Topics** each end user can see when opening a ticket in the **client portal** (`open.php`). Restrictions apply per **user account**, not per organization.
 
 ## Requirements
